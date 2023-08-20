@@ -6,6 +6,11 @@ import java.util.Map;
 import java.util.Set;
 import java.util.stream.Collectors;
 
+/**
+ *  Stream GroupingBy 를 이용하면 데이터 집합을 하나 이상의 특성으로 분류, 그룹화하는 연산을 쉽게 수행할 수 있다.
+ *  ex) number -> number % 10 은 결과 값을 KEY 로, number 를 value 로 하는 Map 을 생성한다.
+ */
+
 public class GroupingByStudy {
 
     public static void main(String[] args) {
