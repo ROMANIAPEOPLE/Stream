@@ -37,6 +37,4 @@ public class GroupingByStudy {
         System.out.println(unit3);
 
     }
-
-
 }
